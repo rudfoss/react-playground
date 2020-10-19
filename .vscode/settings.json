@@ -1,0 +1,23 @@
+{
+	"typescript.tsdk": "node_modules\\typescript\\lib",
+	"files.eol": "\n",
+	"editor.rulers": [110],
+	"barrelr.useDoubleQuotes": true,
+	"editor.formatOnSave": true,
+	"[typescript]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
